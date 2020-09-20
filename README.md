@@ -7,7 +7,6 @@
 
 ![stock Market](Images/stockmarket.jpg)
 
-## Instructions
 
 * Create a script that loops through all the stocks for one year and output the following information.
 
@@ -21,7 +20,7 @@
 
 * conditional formatting that will highlight positive change in green and negative change in red.
 
-* The result should look as follows.
+* The result looks as follows.
 
 ![moderate_solution](Images/moderate_solution.png)
 
